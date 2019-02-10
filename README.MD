@@ -6,6 +6,10 @@ World Map module generates html map using folium library.
 
 You can get the module from public git repository
 
+```
+git clone https://github.com/heeveG/World-Map.git
+```
+
 ## Requirements
 
 Please make sure to install all modules from requirements.txt file, in order for module to work properly 
