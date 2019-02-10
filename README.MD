@@ -1,6 +1,6 @@
 # Films on The World Map
 
-World Map is used to see and analyze film industry from above the Earth. 
+World Map module generates html map using folium library. 
 
 ## Installation 
 
