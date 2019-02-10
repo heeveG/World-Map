@@ -20,7 +20,8 @@ Run `.py` file
 python World_Map.py
 ```
 
-After that, input a year and wait for map to generate 
+After that, input a year and wait for map to generate.
+
 It might take up to several hours, depending on amount of films produced during given year.
 
 ## HTML tags explanation
